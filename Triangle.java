@@ -1,9 +1,9 @@
-import java.awt.*;
+﻿import java.awt.*;
 //Prueba de cambio para git
 //Comentario two!
 /**
  * A triangle that can be manipulated and that draws itself on a canvas.
- * 
+ * uy uy uy aqui hay caracteres que no son utf 8
  * @author  Michael K�lling and David J. Barnes
  * @version 2016.02.29
  */
