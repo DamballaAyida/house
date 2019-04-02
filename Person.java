@@ -1,7 +1,7 @@
 import java.awt.*;
 
 /**
- * A person that can be manipulated and that draws itself on a canvas.
+ * A person that can be manipulated and that draws itself on a canvas. Lo edito para que sea en master
  * vamos a hacer un cambio para el nuevo branch que tengo en git
  * @author  Michael Kšlling and David J. Barnes
  * @version 2016.02.29
