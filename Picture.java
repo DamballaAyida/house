@@ -3,7 +3,7 @@
  * the draw method. But wait, there's more: being an electronic picture, it
  * can be changed. You can set it to black-and-white display and back to
  * colors (only after it's been drawn, of course).
- * Primer commit de caracteristica3
+ * Segundo commit de caracteristica3
  * This class was written as an early example for teaching Java with BlueJ.
  * 
  * @author  Michael Kšlling and David J. Barnes
