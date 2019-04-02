@@ -2,7 +2,7 @@ import java.awt.*;
 
 /**
  * A person that can be manipulated and that draws itself on a canvas.
- * 
+ * vamos a hacer un cambio para el nuevo branch que tengo en git
  * @author  Michael Kšlling and David J. Barnes
  * @version 2016.02.29
  */
