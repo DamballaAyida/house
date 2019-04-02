@@ -2,7 +2,11 @@ import java.awt.*;
 
 /**
  * A person that can be manipulated and that draws itself on a canvas. Lo edito para que sea en master, y hago el segundo commit
+<<<<<<< HEAD
  * vamos a hacer un cambio para el nuevo branch que tengo en git INTENTO QUE FALLE JODER PUTO 4 COMIT
+=======
+ * vamos a hacer un cambio para el nuevo branch que tengo en git INTENTANDO PROVOCAR EL FALLO EN LOS COMITS4
+>>>>>>> Buscando fallo sobre comit4
  * @author  Michael Kšlling and David J. Barnes
  * @version 2016.02.29
  */
