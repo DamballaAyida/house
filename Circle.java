@@ -3,7 +3,7 @@ import java.awt.geom.*;
 
 /**
  * A circle that can be manipulated and that draws itself on a canvas.
- * 
+ * hacemos un cambio a ver como va el gitHUB
  * @author  Michael Kšlling and David J. Barnes
  * @version 2016.02.29
  */
